@@ -1,1 +1,1 @@
-var world = "WORLD!!! !!!";
+var world = "The World!";
