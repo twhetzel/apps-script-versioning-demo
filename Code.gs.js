@@ -1,3 +1,3 @@
 function hello() {
-  Logger.log("Hello, " + mondo);
+  Logger.log("Hello, " + world);
 }
