@@ -1,3 +1,3 @@
 function hello() {
-  Logger.log("Hello, " + world);
+  Logger.log(hello_greeting + world);
 }
